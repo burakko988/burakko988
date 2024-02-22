@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Open to work now. Im interest on GOLANG-NODE.JS Backend Development mostly.
+Im interest on GOLANG-NODE.JS Backend Development mostly also Next.js and React.js for frontend development.
 
 
 ## 🌐 Socials:
