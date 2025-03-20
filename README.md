@@ -1,12 +1,13 @@
 # Hi there, I'm Burak Korkmaz! 👋
 
-I'm passionate about backend development using **Golang** and **Node.js**, and I also enjoy building frontend applications with **Next.js** and **React.js**.
+I'm passionate about backend development using **Golang**, **.Net** and **Node.js**, and I also enjoy building frontend applications with **Next.js** and **React.js**.
 
 ---
 
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/burakkorkmaz10/)
+[![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:burakko988@gmail.com)
 
 ---
 
@@ -43,7 +44,3 @@ I'm passionate about backend development using **Golang** and **Node.js**, and I
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-
----
-
-[![Visitor Count](https://visitcount.itsvg.in/api?id=burakko988&icon=0&color=0)](https://visitcount.itsvg.in)
