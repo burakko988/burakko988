@@ -6,8 +6,9 @@ I'm passionate about backend development using **Golang**, **.Net** and **Node.j
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/burakkorkmaz10/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/burakkorkmaz10/) 
 [![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:burakko988@gmail.com)
+
 
 ---
 
